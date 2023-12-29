@@ -2,30 +2,86 @@ import 'package:quiz_app/models/quiz_questions.dart';
 
 const questions = [
   QuizQuestion(
-      'What is the famous French pastry made of layers of puff pastry and cream filling?',
-      ['Mille-feuille', 'Croissant', 'Éclair', 'Macaron']),
+      'Which French pastry is known for its crescent shape and buttery, flaky layers?',
+      ['Croissant', 'Pain au Chocolat', 'Palmier', 'Brioche']),
   QuizQuestion(
-      'Which French dessert is a custard tart topped with caramelized sugar?',
-      ['Crème brûlée', 'Tarte Tatin', 'Profiterole', 'Madeleine']),
+      'What is the French term for a light and fluffy dessert made with egg whites and sugar?',
+      ['Soufflé', 'Mousse', 'Tiramisu', 'Éclair']),
   QuizQuestion(
-      'In French, what is the name for the small, buttery, and flaky pastries often filled with fruit preserves?',
-      ['Pain au chocolat', 'Palmier', 'Chausson aux pommes', 'Petit four']),
-  QuizQuestion('What is the French name for the classic French baguette?',
-      ['Baguette', 'Bâtard', 'Brioche', 'Fougasse']),
+      'In French cuisine, what is the name for a sweet or savory filled pastry made with choux pastry?',
+      ['Profiterole', 'Chausson aux pommes', 'Pâte sucrée', 'Quiche Lorraine']),
   QuizQuestion(
-      'Which French pastry is a delicate shell of puff pastry filled with custard or whipped cream?',
-      ['Choux pastry', 'Pâte sucrée', 'Feuilletage', 'Sablé']),
-  QuizQuestion('What is the main ingredient in a traditional French quiche?',
-      ['Cheese', 'Spinach', 'Lardons', 'Ham']),
+      'Which French bread is round and typically topped with sesame seeds or poppy seeds?',
+      ['Pain de Campagne', 'Boule', 'Pain Complet', 'Pain Poilâne']),
   QuizQuestion(
-      'Which French pastry is a small sponge cake typically shaped like a shell?',
-      ['Madeleine', 'Financier', 'Palmier', 'Chouquette']),
-  QuizQuestion('What is the French name for a type of almond meringue cookie?',
-      ['Macaron', 'Madeleine', 'Meringue', 'Palmier']),
+      'What is the name of the French pastry chef known for popularizing the macaron?',
+      ['Pierre Hermé', 'Gaston Lenôtre', 'Christophe Adam', 'Cédric Grolet']),
   QuizQuestion(
-      'Which French dessert is a puff pastry filled with almond cream and often topped with powdered sugar?',
-      ['Pithivier', 'Tarte Tatin', 'Galette des Rois', 'Chausson aux pommes']),
+      'In French baking, what is the term for a rich, sweet dough used in pastries like cinnamon rolls?',
+      [
+        'Pâte levée feuilletée',
+        'Pâte à brioche',
+        'Pâte sablée',
+        'Pâte à foncer'
+      ]),
   QuizQuestion(
-      'In French baking, what is the term for a yeast-leavened dough enriched with butter and eggs?',
-      ['Brioche', 'Pâte à choux', 'Pâte sucrée', 'Feuilletage']),
+      'Which French dessert is a layered cake made with thin crepes and pastry cream?',
+      ['Mille-crêpes', 'Galette des Rois', 'Tarte Tatin', 'Opéra']),
+  QuizQuestion(
+      'What is the traditional French bread with a thick, crunchy crust and soft interior?',
+      ['Baguette', 'Pain de Mie', 'Bâtard', 'Fougasse']),
+  QuizQuestion(
+      'In French, what is the name for a sweet, yeasted bread typically flavored with orange blossom water or anise?',
+      ['Brioche Nanterre', 'Fougasse', 'Babka', 'Panettone']),
+  QuizQuestion(
+      'Which French pastry is a delicate puff pastry filled with almond paste and often shaped like a bear\'s paw?',
+      ['Palmier Ours', 'Chausson aux Pommes', 'Bear Claw', 'Pain d\'Amande']),
 ];
+
+// const moreTraditionalQuestions = [
+//   QuizQuestion(
+//       'What is the classic French pastry known for its flaky layers and almond filling?',
+//       ['Pithivier', 'Galette des Rois', 'Frangipane', 'Tarte Bourdaloue']),
+//   QuizQuestion(
+//       'In French baking, what is the name for a sweet tart with a layer of almond cream and fruit on top?',
+//       [
+//         'Tarte aux Fruits',
+//         'Tarte Tatin',
+//         'Tarte Normande',
+//         'Tarte aux Amandes'
+//       ]),
+//   QuizQuestion(
+//       'Which French bread is shaped like a crown and traditionally eaten during the Epiphany season?',
+//       ['Galette des Rois', 'Couronne', 'Boule de Noël', 'Brioche des Rois']),
+//   QuizQuestion(
+//       'What is the traditional French cake made with layers of sponge cake, chocolate ganache, and buttercream?',
+//       ['Opéra', 'Saint-Honoré', 'Dacquoise', 'Charlotte']),
+//   QuizQuestion(
+//       'In French baking, what is the term for a flaky pastry filled with almond cream and puff pastry layers?',
+//       [
+//         'Gâteau Basque',
+//         'Palmier Feuilleté',
+//         'Mille-feuille',
+//         'Galette des Rois'
+//       ]),
+//   QuizQuestion(
+//       'Which French dessert is a creamy custard tart with a burnt sugar crust on top?',
+//       ['Tarte au Citron', 'Crème Caramel', 'Tarte Tatin', 'Flan Parisien']),
+//   QuizQuestion(
+//       'What is the traditional French bread with a thick crust and soft interior, often used for sandwiches?',
+//       ['Pain Poilâne', 'Pain de Campagne', 'Boule', 'Pain Complet']),
+//   QuizQuestion(
+//       'In French baking, what is the term for a sweet yeast bread twisted or braided and often topped with pearl sugar?',
+//       ['Brioche Tressée', 'Pain d\'Épices', 'Chinois', 'Babka']),
+//   QuizQuestion(
+//       'Which French pastry is a round, buttery cake with a sunken center filled with fruit or cream?',
+//       [
+//         'Tarte Tatin',
+//         'Tarte aux Pommes',
+//         'Tarte Normande',
+//         'Galette des Rois'
+//       ]),
+//   QuizQuestion(
+//       'What is the classic French dessert made with layers of puff pastry and cream filling, often decorated with a lattice pattern?',
+//       ['Mille-feuille', 'Napoleon', 'Paris-Brest', 'Religieuse']),
+// ];
