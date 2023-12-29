@@ -57,7 +57,6 @@ To run the Copain Bakery Quiz App locally, follow these steps:
 The project uses the following key dependencies:
 
 - `flutter: ^2.0.0` - The Flutter framework.
-- Add other dependencies as needed.
 
 For a complete list of dependencies, refer to the `pubspec.yaml` file.
 
