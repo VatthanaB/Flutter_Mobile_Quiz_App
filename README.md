@@ -9,7 +9,6 @@ Welcome to the Copain Bakery Quiz App, a mobile application developed using Flut
 
 - [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [How to Use](#how-to-use)
@@ -25,12 +24,6 @@ This Flutter app is a quiz application focused on bakery-related questions, with
 - Information about Copain Bakery integrated into the quiz.
 - Score tracking to monitor user performance.
 - Educational and entertaining content.
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Getting Started
 
