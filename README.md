@@ -1,6 +1,3 @@
-Certainly! Below is a modified version of the `README.md` file, taking into account the correct name "Copain Bakery":
-
-````markdown
 # Copain Bakery Quiz App
 
 Welcome to the Copain Bakery Quiz App, a mobile application developed using Flutter. This app is designed to test users' knowledge about bakery-related topics, showcasing the delightful offerings of Copain Bakery in Auckland. This project serves as a valuable addition to my portfolio.
@@ -30,10 +27,10 @@ This Flutter app is a quiz application focused on bakery-related questions, with
 To run the Copain Bakery Quiz App locally, follow these steps:
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/copain-bakery-quiz-app.git
    ```
-````
 
 2. **Navigate to the project directory:**
 
