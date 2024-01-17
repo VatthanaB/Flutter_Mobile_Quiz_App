@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89762568465",
+    "project_id": "copainquizapp",
+    "storage_bucket": "copainquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89762568465:android:8c17a2dc23d1cfe04814b0",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHlok1saX--USoUsjP6rXtOkZcsOZ6xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
